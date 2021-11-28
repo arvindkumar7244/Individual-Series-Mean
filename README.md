@@ -28,3 +28,11 @@ mean =  Σx / n
    write : "Arithmetic Mean = ", am
 
 #### exit
+
+# Output
+
+How many elements are there : 5
+
+Enter elements : 12 14 16 18 20
+
+Mean of the series is : 16.0

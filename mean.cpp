@@ -1,4 +1,4 @@
-Program to Calculate Mean of an individual series
+//Program to Calculate Mean of an individual series
 
 #include<iostream.h>
 #include<conio.h>
